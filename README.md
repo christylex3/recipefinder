@@ -24,7 +24,7 @@ Only authorized contributors may add to this repository.
 
 ## Links
 
-Deployed app: https://salty-island-34746.herokuapp.com/
+Deployed app: https://simply-recipe-finder.herokuapp.com/
 
 ![image](./public/images/app-screenshot1.png)
 
